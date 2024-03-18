@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ZadaniaDomowe2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ZadaniaDomowe2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZadaniaDomowe2-Debug-4b62a203073a3c5850c9.json",
+					"name" : "ZadaniaDomowe2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Zadania_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Zadania_3-Debug-e0464aaa386c5c562fa2.json",
+					"name" : "Zadania_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Zagniezdzone_iteracje::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Zagniezdzone_iteracje-Debug-92118d64ca1ef6fea7fb.json",
+					"name" : "Zagniezdzone_iteracje",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Dawid/CLionProjects/ZadaniaDomowe2/cmake-build-debug",
+		"source" : "C:/Users/Dawid/CLionProjects/ZadaniaDomowe2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

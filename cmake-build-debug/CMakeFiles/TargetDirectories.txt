@@ -1,0 +1,5 @@
+C:/Users/Dawid/CLionProjects/ZadaniaDomowe2/cmake-build-debug/CMakeFiles/ZadaniaDomowe2.dir
+C:/Users/Dawid/CLionProjects/ZadaniaDomowe2/cmake-build-debug/CMakeFiles/Zagniezdzone_iteracje.dir
+C:/Users/Dawid/CLionProjects/ZadaniaDomowe2/cmake-build-debug/CMakeFiles/Zadania_3.dir
+C:/Users/Dawid/CLionProjects/ZadaniaDomowe2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dawid/CLionProjects/ZadaniaDomowe2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

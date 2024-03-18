@@ -1,0 +1,9 @@
+# ninja log v5
+0	105	7324873871365266	build.ninja	deed21370e4cbfb8
+0	325	7324870856397665	CMakeFiles/ZadaniaDomowe2.dir/main.cpp.obj	2a08f107bf0cec91
+327	402	7324870857147838	ZadaniaDomowe2.exe	e8bc76da2056b79c
+2	63	7324873188335345	CMakeFiles/Zagniezdzone_iteracje.dir/zagniezdzone_iteracje.c.obj	66a0c284b236668e
+63	130	7324873188975487	Zagniezdzone_iteracje.exe	e1daac29c905ba25
+0	111	7324873871365266	build.ninja	deed21370e4cbfb8
+1	52	7324873872505526	CMakeFiles/Zagniezdzone_iteracje.dir/zagniezdzone_iteracje.c.obj	66a0c284b236668e
+53	116	7324873873115661	Zagniezdzone_iteracje.exe	e1daac29c905ba25
